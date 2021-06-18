@@ -34,7 +34,3 @@ on emp.DeptID = dept.DeptID
 
 SELECT  emp.EmpID, emp.EmpName, dept.DeptID, dept.DeptName FROM EMPLOYEE emp, Department dept
 WHERE emp.DeptID < dept.DeptID
-
---Natural Join
-
---select * from EMPLOYEE NATURAL JOIN  Department				--error

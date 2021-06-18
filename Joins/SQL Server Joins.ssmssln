@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Joins", "SQL Server Joins\SQL Server Joins.ssmssqlproj", "{8B182F54-0827-41ED-ADEA-A9C23635ABEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B182F54-0827-41ED-ADEA-A9C23635ABEA}.Default|Default.ActiveCfg = Default
+		{75D2CBC2-5EA8-4132-B25C-F9670CCADA97}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB53271-A649-42E1-98D0-DE5615C97684}
+	EndGlobalSection
+EndGlobal
